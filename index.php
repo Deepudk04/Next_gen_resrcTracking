@@ -44,7 +44,9 @@
             </nav>
             <section class="main">
                 <div class="main-top">
-                    <h1 align="center">DASHBOARD</h1>
+                <h1 class="centered-heading">
+                    <span>DASHBOARD</span>
+                </h1>
                     <i class="fas fa-user-cog"></i>
                 </div>
                 <div class="users">
